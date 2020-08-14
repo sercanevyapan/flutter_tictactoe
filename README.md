@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![GitHub Logo](https://github.com/sercanevyapan/flutter_tictactoe/blob/master/screenshot.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
